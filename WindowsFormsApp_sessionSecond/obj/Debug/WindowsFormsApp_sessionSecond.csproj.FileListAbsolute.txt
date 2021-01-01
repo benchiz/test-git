@@ -1,0 +1,29 @@
+c:\users\01-pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\bin\Debug\WindowsFormsApp_sessionSecond.exe
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\bin\Debug\WindowsFormsApp_sessionSecond.exe.config
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.authForm.resources
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.mainForm.resources
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.Properties.Resources.resources
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.csproj.GenerateResource.cache
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.csproj.CoreCompileInputs.cache
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.exe
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.pdb
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\bin\Debug\WindowsFormsApp_sessionSecond.pdb
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.csprojAssemblyReference.cache
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.adminForm.resources
+C:\Users\01-Pk-2017-20\source\repos\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.EditAdmin.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.csprojAssemblyReference.cache
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.EditAdmin.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.adminForm.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.authForm.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.mainForm.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.Properties.Resources.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.csproj.GenerateResource.cache
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.csproj.CoreCompileInputs.cache
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.exe
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.pdb
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\bin\Debug\WindowsFormsApp_sessionSecond.exe.config
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\bin\Debug\WindowsFormsApp_sessionSecond.exe
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\bin\Debug\WindowsFormsApp_sessionSecond.pdb
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.delAdmin.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.AddService.resources
+C:\Users\loky\Desktop\college\from college PC\WindowsFormsApp_sessionSecond\WindowsFormsApp_sessionSecond\obj\Debug\WindowsFormsApp_sessionSecond.userForm.resources
